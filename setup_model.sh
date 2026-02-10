@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export NIM_MODEL_NAME=hf://tiiuae/Falcon3-7B-Base
-export NIM_SERVED_MODEL_NAME=MedText-Falcon3-7B
+export NIM_SERVED_MODEL_NAME=Falcon3-7B-Base
 export NIM_CHAT_TEMPLATE=/home/gtc_llm_session.git/template_falcon.jinja
 export LOCAL_PEFT_DIRECTORY=/home/loras/
 
